@@ -3,5 +3,4 @@
 - lemon
 - olive oil
 - salt
-# Method
-- Blend!
+- Tahini
